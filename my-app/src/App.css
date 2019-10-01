@@ -35,10 +35,14 @@
 }
 
 .cards img {
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 200px;
   border-radius: 3px;
   margin-right: 20px;
   padding-top:30px;
 }
 
+.ui {
+  width:400px;
+  
+}
