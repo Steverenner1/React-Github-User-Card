@@ -20,3 +20,25 @@
 .App-link {
   color: #09d3ac;
 }
+
+.cards {
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items:center;
+  border-radius: 5px;
+  box-shadow: 0 1px 6px -2px #000;
+  background-color: lightblue;
+  padding-bottom: 20px;
+  font-family: 'Orbitron', sans-serif;
+}
+
+.cards img {
+  width: 150px;
+  height: 150px;
+  border-radius: 3px;
+  margin-right: 20px;
+  padding-top:30px;
+}
+
